@@ -155,7 +155,8 @@ $('.info').fadeOut();
           }
         }
       });
-
+        
+        
       // Add timer bar
       $('<i class="timer"></i>')
         .prependTo('#g')
@@ -196,3 +197,6 @@ $('.info').fadeOut();
   });
   
 });
+
+
+
